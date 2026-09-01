@@ -13,9 +13,9 @@ It uses OAuth authorization.
 
 With the TimeCamp MCP server, your AI assistant can:
 
-Start and stop time tracking
-Create and manage time entries
-Browse projects and tasks
-View tracked time summaries
-Manage your TimeCamp workspace (manage tasks, tags)
-Generate reports & analysis
+- Start and stop time tracking
+- Create and manage time entries
+- Browse projects and tasks
+- View tracked time summaries
+- Manage your TimeCamp workspace (manage tasks, tags)
+- Generate reports & analysis
